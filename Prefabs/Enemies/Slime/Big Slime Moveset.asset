@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819a88dbdfbfa544bb75944da6277c9b, type: 3}
+  m_Name: Big Slime Moveset
+  m_EditorClassIdentifier: 
+  R1: {fileID: 11400000, guid: 5a180a2b8c691f1469a0ea3adbd1faa5, type: 2}
+  runningAttack: {fileID: 11400000, guid: 5a180a2b8c691f1469a0ea3adbd1faa5, type: 2}
+  lightCombo: {fileID: 0}
+  heavyCombo: {fileID: 0}
+  combos:
+  - {fileID: 11400000, guid: fbdf2fe0f3cf82f40bada8940b5c3f9e, type: 2}
+  - {fileID: 11400000, guid: e68dbc9b11b1fed4a8a9c2da59c16a5a, type: 2}
+  - {fileID: 11400000, guid: 96569de62b1101e4dbf377743c0cba34, type: 2}

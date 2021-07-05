@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f36fc3864cb6584aaeba25e11aced52
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 5b8903faabaa4d64bbf306b8787d2d67, type: 3}
+  plane:
+    shape: 0
+    size: 1000
+    UVTiling: 2
+    subdivisions: 128
+    noise: 1

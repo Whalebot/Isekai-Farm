@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15c5e7b1a90a9ce40a79d0c5c191cc93, type: 3}
+  m_Name: Magic Hammer
+  m_EditorClassIdentifier: 
+  equipmentType: 0
+  equipmentGO: {fileID: 4027292501112751790, guid: d78ac16531a607f4499f65268d1fcdb3,
+    type: 3}
+  controller: {fileID: 22100000, guid: c1aa528ae8e29104d9cd4ae1ef4e9ea1, type: 2}
+  moveset: {fileID: 11400000, guid: b2586cdb3add5704c9c4abcabe56f393, type: 2}
+  attack: 60

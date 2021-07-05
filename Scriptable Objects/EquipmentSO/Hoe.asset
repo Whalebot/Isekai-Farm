@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15c5e7b1a90a9ce40a79d0c5c191cc93, type: 3}
+  m_Name: Hoe
+  m_EditorClassIdentifier: 
+  equipmentType: 0
+  equipmentGO: {fileID: 6409147214652912341, guid: c74afdc5b6e8f824bbe2455064f02d5d,
+    type: 3}
+  controller: {fileID: 22100000, guid: 0311e8f15e9f5ec4493577d160578bbb, type: 2}
+  moveset: {fileID: 11400000, guid: 25be7ae084882584483ce8601adcd1e6, type: 2}

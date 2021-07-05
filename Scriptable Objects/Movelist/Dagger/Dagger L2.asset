@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c0fd4a0e2b92c24ab826475cf4d7acd, type: 3}
+  m_Name: Dagger L2
+  m_EditorClassIdentifier: 
+  attackPrefab: {fileID: 3177392228787048669, guid: d088c53cf88411b4aaa87c3e9c5b30a3,
+    type: 3}
+  animationID: 1
+  icon: {fileID: 0}
+  damage: 3
+  hitStun: 30
+  knockback: 2
+  poiseBreak: 1
+  shakeMagnitude: 2
+  shakeDuration: 0.1
+  particleID: 0
+  holdAttack: 0
+  autoAim: 0
+  tracking: 0
+  armor: 0
+  homing: 0
+  fullCancelable: 0
+  noClip: 0
+  iFrames: 0
+  startupParticle: 0
+  overrideVelocity: 1
+  resetVelocityDuringRecovery: 1
+  Momentum: {x: 0, y: 0, z: 7}
+  momentumArray: []

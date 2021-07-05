@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15c5e7b1a90a9ce40a79d0c5c191cc93, type: 3}
+  m_Name: Steel Axe
+  m_EditorClassIdentifier: 
+  equipmentType: 0
+  equipmentGO: {fileID: 4414940094568752759, guid: d9faa58e1511789478a9c3c7de8ec246,
+    type: 3}
+  controller: {fileID: 22100000, guid: 040e9a2c5672c094f9c27afd9b5fc4af, type: 2}
+  moveset: {fileID: 11400000, guid: 3cca955cf20e125438de5a1ad620af72, type: 2}
+  attack: 10

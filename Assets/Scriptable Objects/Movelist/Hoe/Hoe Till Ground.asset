@@ -30,7 +30,7 @@ MonoBehaviour:
   trainedSkills:
   - skill: {fileID: 11400000, guid: 9090b047275b4b84090eceefb66d397b, type: 2}
     experience: 5
-  shakeMagnitude: 10
+  shakeMagnitude: 2
   shakeDuration: 0.3
   slowMotionDuration: 0.02
   startupParticle: 0

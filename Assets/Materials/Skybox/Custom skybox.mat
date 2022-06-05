@@ -111,20 +111,20 @@ Material:
     - _GlossyReflections: 0
     - _GroundExponent: 10
     - _Metallic: 0
-    - _MoonIntensity: 0.004521046
+    - _MoonIntensity: 0.0045207236
     - _MoonSize: 4
     - _OcclusionStrength: 1
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _SkyExponent: 9.843549
+    - _SkyExponent: 9.84356
     - _SkyIntensity: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _StarIntensity: 0.0019926233
+    - _StarIntensity: 0.0019926298
     - _StarOffset: -19.56
-    - _SunRotVal: -276.78647
+    - _SunRotVal: -276.7862
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
@@ -134,8 +134,8 @@ Material:
     - _CloudOffset: {r: -113.68222, g: 317.84387, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GroundColor: {r: 0.24740198, g: 0.22666359, b: 0.22666359, a: 1}
-    - _HorizonColor: {r: 0.9411132, g: 1.0215061, b: 1.0076768, a: 1}
-    - _SkyColor: {r: 0.14757352, g: 0.30474457, b: 0.78678787, a: 1}
+    - _GroundColor: {r: 0.24740198, g: 0.22666363, b: 0.22666363, a: 1}
+    - _HorizonColor: {r: 0.9411147, g: 1.0215068, b: 1.0076777, a: 1}
+    - _SkyColor: {r: 0.14757405, g: 0.30474418, b: 0.78678805, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SunDirection: {r: 0, g: -0.99299175, b: -0.11818504, a: 0}
